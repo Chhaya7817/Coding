@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Segment_Tree_Client",
+            "request": "launch",
+            "mainClass": "Segment_Tree_Client",
+            "projectName": ""
+        },
+        {
+            "type": "java",
             "name": "NHAY_Spoj",
             "request": "launch",
             "mainClass": "NHAY_Spoj",

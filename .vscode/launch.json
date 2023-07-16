@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SnakeLadders_Board",
+            "request": "launch",
+            "mainClass": "SnakeLadders_Board",
+            "projectName": ""
+        },
+        {
+            "type": "java",
             "name": "Segment_Tree_Client",
             "request": "launch",
             "mainClass": "Segment_Tree_Client",

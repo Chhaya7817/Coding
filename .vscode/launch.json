@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "JourneyToTheMoon_hrank",
+            "request": "launch",
+            "mainClass": "JourneyToTheMoon_hrank",
+            "projectName": ""
+        },
+        {
+            "type": "java",
             "name": "SnakeLadders_Board",
             "request": "launch",
             "mainClass": "SnakeLadders_Board",
